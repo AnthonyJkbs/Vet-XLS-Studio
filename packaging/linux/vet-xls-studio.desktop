@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=0.5
+Name=Vet XLS Studio
+GenericName=Veterinary Clinic Manager
+Comment=Manage owners, pets, appointments, treatments and Excel reports
+Exec=VetXLSStudio
+Icon=vetxlsstudio
+Terminal=false
+Categories=Office;Database;Science;
+Keywords=vet;veterinary;clinic;pets;appointments;excel;
+StartupWMClass=VetXLSStudio
