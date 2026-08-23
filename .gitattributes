@@ -1,1 +1,12 @@
+# Force les fichiers Python comme code détectable
 *.py linguist-language=Python
+
+# Exclure les fichiers HTML du calcul des langages GitHub
+*.html linguist-detectable=false
+*.htm linguist-detectable=false
+
+# Exclure les fichiers LaTeX éventuels
+*.tex linguist-detectable=false
+
+# Exclure les fichiers générés ou de données
+*.xlsx linguist-detectable=false
