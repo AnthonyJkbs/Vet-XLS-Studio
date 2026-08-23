@@ -8,7 +8,7 @@ everything to a styled Excel workbook (`.xlsx`).
 The interface is available in **English, French and Malagasy**, ships a
 modern dark & light theme, and stores its data locally — no cloud, no
 account, no telemetry.
-Aperçu
+
 
 <p align="center"> <img src="assets/cover.jpg" alt="Vet XLS Studio Preview" width="900"> </p>
 ---
