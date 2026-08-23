@@ -1,0 +1,8 @@
+{
+  "admin": {
+    "display_name": "Administrator",
+    "role": "admin",
+    "salt": "678fbe116608d8860860b1cb74aa8a04",
+    "hash": "aac8629819f2750aa5e5ab1b7728ccbc4167f38f78a230e7740dc0d17461ad0b"
+  }
+}
